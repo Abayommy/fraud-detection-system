@@ -179,7 +179,7 @@ index=fraud_transactions sourcetype=transaction_data
 ## 📊 Data Analysis & Insights
 
 ### Geographic Risk Assessment
-![Geographic Analysis](./screenshots/geographic_analysis.png)
+![Geographic Analysis](./screenshots/geographic_analysis.jpg)
 
 **High-Risk Countries Identified:**
 - **Great Britain (GB)**: 16.0% fraud rate - Critical attention required
