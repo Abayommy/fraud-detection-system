@@ -69,7 +69,7 @@ Our advanced algorithm evaluates transactions across multiple dimensions:
 ### Dashboard Components
 
 #### 1. **Executive KPI Summary**
-![KPI Summary](./screenshots/kip_summary.jpg)
+![KPI Summary](./screenshots/kpi_summary.jpg)
 - Total transaction volume monitoring
 - Real-time processing metrics
 - System health indicators
