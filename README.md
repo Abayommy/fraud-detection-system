@@ -182,15 +182,20 @@ index=fraud_transactions sourcetype=transaction_data
 ![Geographic Analysis](./screenshots/geographic_analysis.jpg)
 
 **High-Risk Countries Identified:**
-- **Great Britain (GB)**: 16.0% fraud rate - Critical attention required
-- **Brazil (BR)**: 10.5% fraud rate - Enhanced monitoring
-- **China (CN)**: Elevated risk patterns detected
+- **China (CN)**: 100% fraud rate - Critical risk requiring immediate attention
+- **Nigeria (NG)**: 100% fraud rate - Critical risk requiring immediate attention  
+- **Russia (RU)**: 100% fraud rate - Critical risk requiring immediate attention
+
+- **Secure High-Volume Markets:**
+- **Canada (CA)**: 0% fraud rate - 114 transactions, excellent security controls
+- **Great Britain (GB)**: 0% fraud rate - 123 transactions, strong fraud prevention
+- **United States (US)**: 0% fraud rate - 110 transactions, effective monitoring
 
 ### Fraud Pattern Analysis
-- **Peak Risk Hours**: 22:00-06:00 (off-hours transactions)
-- **High-Risk Amounts**: Transactions >$8,000
-- **Velocity Patterns**: Multiple transactions per user within short timeframes
-
+- **Risk Concentration**: Fraud concentrated in specific small-volume regions (CN, NG, RU)
+- **Secure Major Markets**: High-volume countries showing excellent fraud prevention
+- **Geographic Intelligence**: Clear distinction between high-risk countries and secure major markets
+  
 ## 🚀 System Performance
 
 ### Before vs. After Implementation
