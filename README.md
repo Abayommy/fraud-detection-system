@@ -64,43 +64,43 @@ Our advanced algorithm evaluates transactions across multiple dimensions:
 
 ## 📈 Executive Dashboard
 
-![Executive Dashboard](./screenshots/executive_dashboard_overview.png)
+![Executive Dashboard](./screenshots/executive_dashboard_overview.jpg)
 
 ### Dashboard Components
 
 #### 1. **Executive KPI Summary**
-![KPI Summary](./screenshots/kpi_summary.png)
+![KPI Summary](./screenshots/kip_summary.jpg)
 - Total transaction volume monitoring
 - Real-time processing metrics
 - System health indicators
 
 #### 2. **Performance Metrics**
-![Performance Metrics](./screenshots/performance_metrics.png)
+![Performance Metrics](./screenshots/performance_metrics.jpg)
 - Detection rate: 38.5%
 - Precision rate: 100%
 - Response time improvements: 40.2%
 - Zero false positives achieved
 
 #### 3. **Global Risk Distribution**
-![Global Risk](./screenshots/global_risk_distribution.png)
+![Global Risk](./screenshots/global_risk_distribution.jpg)
 - Geographic fraud pattern analysis
 - Country-specific risk assessment
 - Strategic focus area identification
 
 #### 4. **Financial Impact Analysis**
-![Financial Impact](./screenshots/financial_impact.png)
+![Financial Impact](./screenshots/financial_impact.jpg)
 - **$75,704** fraud prevention achieved
 - ROI demonstration metrics
 - Cost-benefit analysis
 
 #### 5. **System Performance Improvements**
-![Performance Improvements](./screenshots/system_improvements.png)
+![Performance Improvements](./screenshots/system_improvements.jpg)
 - Before/after comparison analysis
 - Response time enhancements
 - Operational efficiency gains
 
 #### 6. **Real-Time Alert System**
-![Real-Time Alerts](./screenshots/realtime_alerts.png)
+![Real-Time Alerts](./screenshots/realtime_alerts.jpg)
 - High-risk transaction identification
 - Geographic risk indicators (⚠️ for CN, RU)
 - Immediate action notifications with 🔴 priority flagging
