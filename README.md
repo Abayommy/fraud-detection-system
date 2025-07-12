@@ -325,3 +325,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ If this project helped you, please consider giving it a star!**
 
 ![Fraud Detection Success](https://img.shields.io/badge/Fraud%20Detection-Success-brightgreen) ![Enterprise Ready](https://img.shields.io/badge/Enterprise-Ready-blue) ![ROI Proven](https://img.shields.io/badge/ROI-Proven-success)
+
+## 📚 Cite This Work
+
+If referencing this dashboard in academic or technical material, kindly use the following citation:
+
+Ajayi, Abayomi. "Splunk-Based Fraud Detection Dashboard." GitHub, July 2025.  
+Available at: [https://github.com/Abayommy/fraud-detection-dashboard](https://github.com/Abayommy/fraud-detection-dashboard)
+
+Suggested citation format:
+Ajayi, A. (2025). Fraud Detection Dashboard with Precision and Response Optimization. GitHub Repository. https://github.com/Abayommy/fraud-detection-dashboard
+
